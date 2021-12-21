@@ -8,7 +8,7 @@ Features:
 
 - Submit form with different fields with specific criteria
 - API call for market information to display prices, trading volumes, and fluctuations
-- API call to find related industry or political media releases i.e. specific country supporting crypto
+- API call to display related industry or politics news releases i.e. specific country supporting crypto
 - Carousel slideshow showcasing different blogs
 
 
