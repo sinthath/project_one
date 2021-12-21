@@ -15,6 +15,6 @@ Features:
 Built with:
 
 - HTML
-- CSS
+- Bootstrap CSS
 - Javascript
 - Coincap API
